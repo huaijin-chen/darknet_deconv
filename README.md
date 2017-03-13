@@ -5,7 +5,7 @@
 This project is based on darknet.
 1. We complete the implementation of `deconvlutional layer`.
 2. More usefull feature also be merged in this project. The detials in the source code
-3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:3. example:
+3. example:
 ``` 
 ./darknet detector train cfg/person.data  \
          cfg/person_deconv.cfg tiny-yolo.conv.15 -gpus 3
