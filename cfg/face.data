@@ -1,0 +1,6 @@
+classes= 1
+train  = train.txt
+valid  = test.txt
+names = data/face.names
+backup = backup_tv_cm_voc_more_anchor
+
